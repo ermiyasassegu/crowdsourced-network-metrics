@@ -19,7 +19,7 @@
     "date-fns": "^2.29.3",
     "expo": "^47.0.0",
     "expo-cellular": "~4.3.0",
-    "expo-dev-client": "~2.0.0",
+    "expo-cmnmdev-client": "~2.0.0",
     "expo-status-bar": "~1.4.2",
     "patch-package": "^6.5.0",
     "react": "18.1.0",
@@ -30,7 +30,8 @@
     "react-native-root-toast": "^3.3.1",
     "react-native-safe-area-context": "4.4.1",
     "react-native-vector-icons": "^9.2.0",
-    "react-native-web": "~0.18.7"
+    "react-native-web": "~0.18.7",
+    "expo-dev-client": "~2.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",
